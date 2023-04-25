@@ -1,5 +1,5 @@
 console.log("hello world!");
 
-function causeConflict() {
+function causeConflictNew() {
   return true;
 }
